@@ -15,7 +15,7 @@
 	<name>CursoME</name>
 	<description>Me01</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
